@@ -1,6 +1,6 @@
 # 动作生成器
 
-基于 MoMask 的动作生成系统，提供了简单的 Web 界面来生成动作。
+基于 [MoMask](https://github.com/EricGuo5513/momask-codes) 的动作生成系统，提供了简单的 Web 界面来生成动作。
 
 ## 目录结构
 
